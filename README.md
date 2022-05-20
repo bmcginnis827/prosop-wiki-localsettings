@@ -1,6 +1,6 @@
 SSH into the remote server with an SSH client such as https://www.putty.org/
 
-Host will be the IP of the server and port 22.
+Host will be the IP of the server and port 22. Login is root and the root password.
 
 Open the file with nano editor and make any changes (use your arrow keys to navigate around): `nano /home/wikibase/LocalSettings.php`
 
