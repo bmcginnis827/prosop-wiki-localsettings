@@ -1,4 +1,4 @@
-Open the file with nano editor and make any changes: `nano /home/wikibase/LocalSettings.php`
+Open the file with nano editor and make any changes (use your arrow keys to navigate around): `nano /home/wikibase/LocalSettings.php`
 
 To save your edits, press `Ctrl + X` then press `Y`. Press `N` if you don't wish to save them/
 
